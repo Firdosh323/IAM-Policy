@@ -1,6 +1,8 @@
 # IAM Policies and Permissions Repository
 
-Welcome to the IAM Policies and Permissions Repository! This repository serves as a centralized hub for storing and sharing IAM policies and permissions for AWS Identity and Access Management (IAM).
+Welcome to the IAM Policies and Permissions Repository! 
+
+This repository serves as a centralized hub for storing and sharing IAM policies and permissions for AWS Identity and Access Management (IAM).
 
 ## About IAM
 
